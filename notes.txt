@@ -1,0 +1,14 @@
+git switch -c dev
+for switch and create branch
+
+git add . 
+add all files
+
+git commit -m 'message'
+commit message
+
+git push -u origin dev
+push to github
+
+
+
